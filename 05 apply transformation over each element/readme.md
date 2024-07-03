@@ -1,4 +1,4 @@
-# This file has been copied from leetcode canvas
+# This literature has been copied from leetcode canvas
 
 ### 2635. Apply Transform Over Each Element in Array
 
