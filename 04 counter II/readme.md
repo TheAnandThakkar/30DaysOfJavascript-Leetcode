@@ -1,6 +1,6 @@
 # This file has been copied from leetcode canvas
 
-### 2665 Counter II
+### 2665. Counter II
 
 Write a function `createCounter`. It should accept an initial integer `init`. It should return an object with three functions.
 
