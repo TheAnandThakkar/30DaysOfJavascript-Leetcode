@@ -1,5 +1,9 @@
 # This file has been copied from leetcode canvas
 
+```bash
+Write a function createHelloWorld. It should return a new function that always returns "Hello World".
+```
+
 ### Examples
 
 ```bash
