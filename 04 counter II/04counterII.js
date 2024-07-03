@@ -1,3 +1,7 @@
+/**
+ * @param {integer} init
+ * @return { increment: Function, decrement: Function, reset: Function }
+ */
 var createCounter = function (init) {
   let originalValue = init;
   function increment() {
@@ -37,6 +41,10 @@ counter.reset();
 counter.decrement();
 counter.decrement();
 counter.increment();
-// counter.increment(); // 6
-// counter.reset(); // 5
-// counter.decrement(); // 4
+
+/**
+ * const counter = createCounter(5)
+ * counter.increment(); // 6
+ * counter.reset(); // 5
+ * counter.decrement(); // 4
+ */
