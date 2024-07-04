@@ -29,5 +29,5 @@ let constant = function () {
   return 42;
 };
 
-const result = map(array, constant);
+const result = map(array, plusone);
 console.log("result: ", result);
